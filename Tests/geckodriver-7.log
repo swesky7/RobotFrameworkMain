@@ -1,0 +1,20 @@
+1701287548027	geckodriver	INFO	Listening on 127.0.0.1:52059
+1701287551097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52060" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile6tCsBy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701287551581	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701287551680	Marionette	INFO	Listening on port 52073
+WebDriver BiDi listening on ws://127.0.0.1:52060
+Read port: 52073
+1701287551890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:52060/devtools/browser/e421eb95-19d5-48c7-b6a8-26addc1e1f35
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1701287567313	Marionette	INFO	Stopped listening on port 52073
+Dynamically enable window occlusion 1

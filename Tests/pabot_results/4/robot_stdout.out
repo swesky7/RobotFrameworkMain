@@ -1,0 +1,10 @@
+==============================================================================
+Tags :: Tags in Robot Framework                                               
+==============================================================================
+Test Case 5                                                           This is test case 5
+| PASS |
+------------------------------------------------------------------------------
+Tags :: Tags in Robot Framework                                       | PASS |
+1 test, 1 passed, 0 failed
+==============================================================================
+Output:  D:\Training\Robot-Framework-master\Robot-Framework-master\Tests\pabot_results\4\output.xml
